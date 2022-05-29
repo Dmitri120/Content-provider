@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Content provider</string>
+    <string name="contacts">Контакты</string>
+</resources>
